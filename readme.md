@@ -11,17 +11,17 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | --- | --- |
 | **As »Based on« Paragraph Style** | |
 | **As default paragraph style for text** | Paragraph style can be deleted without warning message if not applied in the current document. |
-| **Object Styles** | Paragraph style can be deleted without warning message if object style is not applied. |
-| **Cell Styles** | Paragraph style can be deleted without warning message if cell style is not applied. |
-| **Table of Contents Styles** | Can be deleted without warning message if no table of contents has been created. |
+| **Object Style** | Paragraph style can be deleted without warning message if object style is not applied. |
+| **Cell Style** | Paragraph style can be deleted without warning message if cell style is not applied. |
+| **Table of Contents Style** | Can be deleted without warning message if no table of contents has been created. |
 | **Anchored Object Defaults** | Object ▶︎ Anchored Object ▶︎ Insert  ▶︎ Text. Style can be deleted without warning message if no anchored object was inserted into the document. |
 | **Conditional Text** | Check hidden condition! |
-| **Track changes** | Check deleted or moved Text! |
+| **Track change** | Check deleted or moved Text! |
 | **Footnote options** | Paragraph style can be deleted without warning message if no footnote is inserted in the document. |
 | **Endnote options** | Paragraph style can be deleted without warning message if no endnote is inserted in the document. |
-| **Text Variables** | Running Header |
+| **Text Variable** | Running Header |
 | **Caption Setup Options** | Paragraph style can be deleted without warning message if no caption is inserted into the document. | |
-| **Multi-state Objects** | |
+| **Multi-state Object** | |
 | &nbsp; | |
 | XML | |
 | **XML Element** | Even if the XML element is not placed in the document. |
@@ -29,7 +29,7 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | &nbsp; | |
 | Index | |
 |	**Generate Index settings** | Paragraph style can be deleted without warning message if no index is used in the document. |
-|	**Page Reference Type: To Next Use Of Style** | Paragraph style can be deleted without warning message if no paragraph with this style is applied in the document. |
+|	**Page Reference Type** | To Next Use Of Style. Paragraph style can be deleted without warning message if no paragraph with this style is applied in the document. |
 | &nbsp; | |
 | EPub Export Preferences | |
 | **Paragraph style to break InDesign document.** | Paragraph style can be deleted without warning message if not applied in the current document. Setting gets lost. |
@@ -41,16 +41,16 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | --- | --- |
 | **As »Based on« Character Style** | |
 | **As default character style for text** | Character style can be deleted without warning message if not applied in the current document. |
-| **Paragraph Overrides** | Bullet characters and numbering, Drop caps and nested styles, Grep styles. | 
-| **Table of Contents Styles** | Character style can be deleted without warning message if no table of contents has been created. |
+| **Paragraph Override** | Bullet characters and numbering, Drop caps and nested styles, Grep styles. | 
+| **Table of Contents Style** | Character style can be deleted without warning message if no table of contents has been created. |
 | **Conditional Text** | Check hidden condition! |
-| **Track changes** | Check deleted or moved Text! |
+| **Track change** | Check deleted or moved Text! |
 | **Footnote options** | Character style can be deleted without warning message if no endnote is inserted in the document. |
 | **Endnote options** | Character style can be deleted without warning message if no endnote is inserted in the document. |
-| **Cross-reference formats** | |
+| **Cross-reference format** | |
 | **Hyperlink options** | |
-| **Text Variables** | Running Header |
-| **Multi-state Objects** | |
+| **Text Variable** | Running Header |
+| **Multi-state Object** | |
 | &nbsp; | |
 | XML | |
 | **XML Element** | Even if the XML element is not placed in the document. |
@@ -67,8 +67,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | --- | --- |
 | **As »Based on« Table/Cell Style** | |
 | **Conditional Text** | Check hidden condition! |
-| **Track changes** | Check deleted or moved Text! |
-| **Multi-state Objects** | |
+| **Track change** | Check deleted or moved Text! |
+| **Multi-state Object** | |
 | **XML Element** | Even if the XML element is not placed in the document. |
 
 
@@ -78,8 +78,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | --- | --- |
 | **As »Based on« Object Style** | |
 | **Anchored Object Defaults** | Object ▶︎ Anchored Object ▶︎ Insert. Style can be deleted without warning message if no anchored object was inserted into the document. |
-| **Track changes** | Check anchored objects in deleted or moved text! |
-| **Multi-state Objects** | |
+| **Track change** | Check anchored objects in deleted or moved text! |
+| **Multi-state Object** | |
 | **XML Element** | Even if the XML element is not placed in the document. |
 
 
@@ -87,34 +87,34 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 | Place | Note |
 | --- | --- |
-| **Paragraph Styles** | |
-| **Character Styles** | |
-| **Object Styles** | |
-| **Table Styles** | |
-| **Cell Styles** | |
-| **Imported graphics**| AI, INDD, PDF |
+| **Paragraph Style** | |
+| **Character Style** | |
+| **Object Style** | |
+| **Table Style** | |
+| **Cell Style** | |
+| **Imported graphic**| AI, INDD, PDF |
 | **Conditional Text** | Check hidden condition! |
-| **Track Changes** | Check deleted or moved Text! |
-| **Transparency Effects** | |
-| **Multi-state Objects** | |
+| **Track Change** | Check deleted or moved Text! |
+| **Transparency Effect** | |
+| **Multi-state Object** | |
 | **Ink Manager** | Ink alias |
 | **XML Element** | Even if the XML element is not placed in the document. |
 | &nbsp; | |
 | Local Overrides | |
-| **Paragraphs** | Paragraph rules, Paragraph Shading, Paragraph Border. Does not have to be applied to a text. |
-| **Characters** | Underline options, strikethrough options. Does not have to be applied to a text. |
+| **Paragraph** | Paragraph rules, Paragraph Shading, Paragraph Border. Does not have to be applied to a text. |
+| **Character** | Underline options, strikethrough options. Does not have to be applied to a text. |
 
 
 ## Fonts
 
 | Place | Note |
 | --- | --- |
-| **Paragraph Styles** | |
-| **Character Styles** | |
-| **Local Overrides** | |
-| **Imported graphics** | INDD, PDF |
+| **Paragraph Style** | |
+| **Character Style** | |
+| **Local Override** | |
+| **Imported graphic** | INDD, PDF |
 | **Conditional Text** | Check hidden condition! |
-| **Multi-state Objects** | |
+| **Multi-state Object** | |
 | **XML Element** | Even if the XML element is not placed in the document. |
 
 
