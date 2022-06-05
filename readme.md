@@ -9,8 +9,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 | Place | Note |
 | --- | --- |
-| **As »Based on« Paragraph Style** | |
-| **As default paragraph style for text** | Paragraph style can be deleted without warning message if not applied in the current document. |
+| **Setting for »Based on« Paragraph Style** | |
+| **Setting for default paragraph style for text** | Paragraph style can be deleted without warning message if not applied in the current document. |
 | **Object Style** | Paragraph style can be deleted without warning message if object style is not applied. |
 | **Cell Style** | Paragraph style can be deleted without warning message if cell style is not applied. |
 | **Table of Contents Style** | Can be deleted without warning message if no table of contents has been created. |
@@ -39,8 +39,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 | Place | Note |
 | --- | --- |
-| **As »Based on« Character Style** | |
-| **As default character style for text** | Character style can be deleted without warning message if not applied in the current document. |
+| **Setting for »Based on« Character Style** | |
+| **Setting for default character style for text** | Character style can be deleted without warning message if not applied in the current document. |
 | **Paragraph Override** | Bullet characters and numbering, Drop caps and nested styles, Grep styles. | 
 | **Table of Contents Style** | Character style can be deleted without warning message if no table of contents has been created. |
 | **Conditional Text** | Check hidden condition! |
@@ -65,7 +65,7 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 | Place | Note |
 | --- | --- |
-| **As »Based on« Table/Cell Style** | |
+| **Setting for »Based on« Table/Cell Style** | |
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
 | **Multi-state Object** | |
@@ -76,7 +76,7 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 | Place | Note |
 | --- | --- |
-| **As »Based on« Object Style** | |
+| **Setting for »Based on« Object Style** | |
 | **Anchored Object Defaults** | Object ▶︎ Anchored Object ▶︎ Insert. Style can be deleted without warning message if no anchored object was inserted into the document. |
 | **Track change** | Check anchored objects in deleted or moved text! |
 | **Multi-state Object** | |
