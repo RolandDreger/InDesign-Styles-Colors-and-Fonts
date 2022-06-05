@@ -15,7 +15,6 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Cell Styles** | Paragraph style can be deleted without warning message if cell style is not applied. |
 | **Table of Contents Styles** | Can be deleted without warning message if no table of contents has been created. |
 | **Anchored Object Defaults** | Object ▶︎ Anchored Object ▶︎ Insert  ▶︎ Text. Style can be deleted without warning message if no anchored object was inserted into the document. |
-| **Via Book** | Paragraph style can be deleted if not applied in the current document. |
 | **Conditional Text** | Check hidden condition! |
 | **Track changes** | Check deleted or moved Text! |
 | **Footnote options** | Paragraph style can be deleted without warning message if no footnote is inserted in the document. |
@@ -44,7 +43,6 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **As default character style for text** | Character style can be deleted without warning message if not applied in the current document. |
 | **Paragraph Overrides** | Bullet characters and numbering, Drop caps and nested styles, Grep styles. | 
 | **Table of Contents Styles** | Character style can be deleted without warning message if no table of contents has been created. |
-| **Via book synchronization** | Character style can be deleted without warning message if it is not applied in the current document. |
 | **Conditional Text** | Check hidden condition! |
 | **Track changes** | Check deleted or moved Text! |
 | **Footnote options** | Character style can be deleted without warning message if no endnote is inserted in the document. |
@@ -80,7 +78,6 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | --- | --- |
 | **As »Based on« Object Style** | |
 | **Anchored Object Defaults** | Object ▶︎ Anchored Object ▶︎ Insert. Style can be deleted without warning message if no anchored object was inserted into the document. |
-| **Via book synchronization** | Object style can be deleted without warning message if it is not applied in the current document. |
 | **Track changes** | Check anchored objects in deleted or moved text! |
 | **Multi-state Objects** | |
 | **XML Element** | Even if the XML element is not placed in the document. |
