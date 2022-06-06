@@ -7,6 +7,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 ## Paragraph Styles
 
+:warning: Paragraph style can be deleted without warning message if not applied or no item is inserted into the current document. Setting gets lost.
+
 | Place | Note |
 | --- | --- |
 | **Setting for »Based on« Paragraph Style** | |
@@ -34,9 +36,10 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | EPub Export Preferences | |
 | **Paragraph style to break InDesign document.** | :warning: |
 
-:warning: Paragraph style can be deleted without warning message if not applied or no item is inserted into the current document. Setting gets lost.
 
 ## Character Styles
+
+:warning: Character style can be deleted without warning message if not applied or no item is inserted into the current document. Setting gets lost.
 
 | Place | Note |
 | --- | --- |
@@ -61,7 +64,6 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 |	**Generate Index settings** | :warning: |
 | **Index	Page Reference Options** | The character style applied to page numbers. :warning: |
 
-:warning: Character style can be deleted without warning message if not applied or no item is inserted into the current document. Setting gets lost.
 
 ## Table Styles/Cell Styles
 
@@ -76,6 +78,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 ## Object Styles
 
+:warning: Object style can be deleted without warning message if not applied or no item is inserted into the current document. Setting gets lost.
+
 | Place | Note |
 | --- | --- |
 | **Setting for »Based on« Object Style** | |
@@ -84,7 +88,6 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Multi-state Object** | |
 | **XML Element** | Even if the XML element is not placed in the document. |
 
-:warning: Object style can be deleted without warning message if not applied or no item is inserted into the current document. Setting gets lost.
 
 ## Colors
 
