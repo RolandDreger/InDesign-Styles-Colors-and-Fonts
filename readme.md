@@ -91,6 +91,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 ## Colors
 
+The action *»Select All Unused«* in the Swatch panel menu works quite reliably. However, the color search does not find all colors in use either.
+
 | Place | Note |
 | --- | --- |
 | **Paragraph Style** | |
