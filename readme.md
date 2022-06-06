@@ -140,4 +140,4 @@ Sometimes you can reach your goal faster if you search for "orphaned" formats in
 4. Search in the unpacked files e.g. for the name of the style 
 
 ## Contribute
-If something is missing, please tell me.
+If something is missing, please let me know.
