@@ -10,17 +10,17 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | Place | Note |
 | --- | --- |
 | **Setting for »Based on« Paragraph Style** | |
-| **Setting for default paragraph style for text** | Paragraph style can be deleted without warning message if not applied in the current document. |
-| **Object Style** | Paragraph style can be deleted without warning message if object style is not applied. |
-| **Cell Style** | Paragraph style can be deleted without warning message if cell style is not applied. |
-| **Table of Contents Style** | Can be deleted without warning message if no table of contents has been created. |
-| **Anchored Object Defaults** | Object ▶︎ Anchored Object ▶︎ Insert  ▶︎ Text. Style can be deleted without warning message if no anchored object was inserted into the document. |
+| **Setting for default paragraph style for text** | Paragraph style can be deleted without warning message if not applied in the current document. Setting gets lost. |
+| **Object Style** | Paragraph style can be deleted without warning message if object style is not applied. Setting gets lost. |
+| **Cell Style** | Paragraph style can be deleted without warning message if cell style is not applied. Setting gets lost. |
+| **Table of Contents Style** | Paragraph style can be deleted without warning message if no table of contents has been created. Setting gets lost. |
+| **Anchored Object Defaults** | *Object ▶︎ Anchored Object ▶︎ Insert  ▶︎ Text.* Style can be deleted without warning message if no anchored object was inserted into the document. Setting gets lost. |
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
-| **Footnote options** | Paragraph style can be deleted without warning message if no footnote is inserted in the document. |
-| **Endnote options** | Paragraph style can be deleted without warning message if no endnote is inserted in the document. |
+| **Footnote options** | Paragraph style can be deleted without warning message if no footnote is inserted in the document. Setting gets lost. |
+| **Endnote options** | Paragraph style can be deleted without warning message if no endnote is inserted in the document. Setting gets lost. |
 | **Text Variable** | Running Header |
-| **Caption Setup Options** | Paragraph style can be deleted without warning message if no caption is inserted into the document. | |
+| **Caption Setup Options** | Paragraph style can be deleted without warning message if no caption is inserted into the document. Setting gets lost. |
 | **Multi-state Object** | |
 | &nbsp; | |
 | XML | |
@@ -28,8 +28,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 |	**Map Styles to Tags** | |
 | &nbsp; | |
 | Index | |
-|	**Generate Index settings** | Paragraph style can be deleted without warning message if no index is used in the document. |
-|	**Page Reference Type** | To Next Use Of Style. Paragraph style can be deleted without warning message if no paragraph with this style is applied in the document. |
+|	**Generate Index settings** | Paragraph style can be deleted without warning message if no index is used/generated in the document. Setting gets lost. |
+|	**Page Reference Type** | *To Next Use Of Style.* Paragraph style can be deleted without warning message if no paragraph with this style is applied in the document. Setting gets lost. |
 | &nbsp; | |
 | EPub Export Preferences | |
 | **Paragraph style to break InDesign document.** | Paragraph style can be deleted without warning message if not applied in the current document. Setting gets lost. |
@@ -40,13 +40,13 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | Place | Note |
 | --- | --- |
 | **Setting for »Based on« Character Style** | |
-| **Setting for default character style for text** | Character style can be deleted without warning message if not applied in the current document. |
+| **Setting for default character style for text** | Character style can be deleted without warning message if not applied in the current document. Setting gets lost. |
 | **Paragraph Override** | Bullet characters and numbering, Drop caps and nested styles, Grep styles. | 
-| **Table of Contents Style** | Character style can be deleted without warning message if no table of contents has been created. |
+| **Table of Contents Style** | Character style can be deleted without warning message if no table of contents has been created. Setting gets lost. |
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
-| **Footnote options** | Character style can be deleted without warning message if no endnote is inserted in the document. |
-| **Endnote options** | Character style can be deleted without warning message if no endnote is inserted in the document. |
+| **Footnote options** | Character style can be deleted without warning message if no endnote is inserted in the document. Setting gets lost. |
+| **Endnote options** | Character style can be deleted without warning message if no endnote is inserted in the document. Setting gets lost. |
 | **Cross-reference format** | |
 | **Hyperlink options** | |
 | **Text Variable** | Running Header |
@@ -57,8 +57,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Map Styles to Tags** | |
 | &nbsp; | |
 | Index | |
-|	**Generate Index settings** | Character style can be deleted without warning message if no index is used in the document. |
-| **Index	Page Reference Options** | The character style applied to page numbers. Character style can be deleted without warning message if no index is used in the document. |
+|	**Generate Index settings** | Character style can be deleted without warning message if no index is used/generated in the document. Setting gets lost. |
+| **Index	Page Reference Options** | The character style applied to page numbers. Character style can be deleted without warning message if no index is used in the document. Setting gets lost. |
 
 
 ## Table Styles/Cell Styles
@@ -77,7 +77,7 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | Place | Note |
 | --- | --- |
 | **Setting for »Based on« Object Style** | |
-| **Anchored Object Defaults** | Object ▶︎ Anchored Object ▶︎ Insert. Style can be deleted without warning message if no anchored object was inserted into the document. |
+| **Anchored Object Defaults** | *Object ▶︎ Anchored Object ▶︎ Insert.* Style can be deleted without warning message if no anchored object was inserted into the document. Setting gets lost. |
 | **Track change** | Check anchored objects in deleted or moved text! |
 | **Multi-state Object** | |
 | **XML Element** | Even if the XML element is not placed in the document. |
@@ -120,6 +120,16 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 ## General Notes
 
+### Book Synchronization
 Styles and colors can get into the document via the book synchronization. These can be deleted without warning message if they are not applied in the current document.
 
+### Search in IDML
+Sometimes you can reach your goal faster if you search for "orphaned" formats in the IDML file.
+
+1. Export InDesign document as IDML
+2. Change the file extension to .zip
+3. Unpack the ZIP folder
+4. Search in the unpacked files e.g. for the name of the style 
+
+## Contribute
 If something is missing, please tell me.
