@@ -1,6 +1,6 @@
 # InDesign – Styles, Colors and Fonts
 
-Where the heck are all the styles, colors, and fonts in the document? How do they get into? And under what circumstances can they be removed without side effects or not?
+Where the heck are all the styles, colors, and fonts in the document? How do they get into? And under what circumstances can they be removed without side effects?
 
 Sometimes searching for it fails, sometimes you can delete it, but the settings will be lost. Here is an attempt to make a (complete 🤷‍♂️) checklist.
 
