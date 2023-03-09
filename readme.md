@@ -117,8 +117,8 @@ The action *»Select All Unused«* in the Swatch panel menu works quite reliably
 
 | Place | Note |
 | --- | --- |
-| **Paragraph Style** | |
-| **Character Style** | |
+| **Paragraph Style** | The font applied to the paragraph style. `ParagraphStyle.appliedFont` Font of the bullet character. `ParagraphStyle.bulletChar.bulletsFont` The font to use for kenten characters. `ParagraphStyle.kentenFont` The font applied to ruby characters. `ParagraphStyle.rubyFont` |
+| **Character Style** | The font applied to the character style. `CharacterStyle.appliedFont` The font to use for kenten characters. `CharacterStyle.kentenFont` The font applied to ruby characters. `CharacterStyle.rubyFont` |
 | **Local Override** | |
 | **Imported graphic** | INDD, PDF |
 | **Conditional Text** | Check hidden condition! |
