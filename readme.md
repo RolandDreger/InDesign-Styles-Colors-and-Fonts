@@ -11,7 +11,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 | Place | Note |
 | --- | --- |
-| **Setting for »Based on« Paragraph Style** | |
+| **Paragraph Style:** Setting for »Based on« Paragraph Style | |
+| **Paragraph Style:** Next style | :warning: |
 | **Setting for default paragraph style for text** | :warning: |
 | **Object Style** | :warning: |
 | **Cell Style** | :warning: |
