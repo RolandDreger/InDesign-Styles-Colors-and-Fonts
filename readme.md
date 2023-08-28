@@ -46,7 +46,7 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | --- | --- |
 | **Setting for »Based on« Character Style** | |
 | **Setting for default character style for text** | :warning: |
-| **Paragraph Override** | Bullet characters and numbering, Drop caps and nested styles, Grep styles. | 
+| **Paragraph Style** | Bullet characters and numbering, Drop caps and nested styles, Grep styles. | 
 | **Table of Contents Style** | :warning: |
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
