@@ -73,7 +73,10 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
 | **Multi-state Object** | |
+| &nbsp; | |
+| XML | |
 | **XML Element** | Even if the XML element is not placed in the document. |
+| **Map Styles to Tags** | |
 
 
 ## Object Styles
@@ -86,7 +89,10 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Anchored Object Defaults** | *Object ▶︎ Anchored Object ▶︎ Insert.* :warning: |
 | **Track change** | Check anchored objects in deleted or moved text! |
 | **Multi-state Object** | |
+| &nbsp; | |
+| XML | |
 | **XML Element** | Even if the XML element is not placed in the document. |
+| **Map Styles to Tags** | |
 
 
 ## Colors
