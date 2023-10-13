@@ -118,6 +118,7 @@ The action *»Select All Unused«* in the Swatch panel menu works quite reliably
 | Local Overrides | |
 | **Paragraph** | Paragraph rules, Paragraph Shading, Paragraph Border. Does not have to be applied to a text. |
 | **Character** | Underline options, strikethrough options. Does not have to be applied to a text. |
+| **Ink Manager** | ⚠️ If a color is deleted that is an alias for another color (Ink Manager), no error message will be shown. However, it is correctly detected as in use with the "Select all unused" colors command. |
 
 
 ## Fonts
