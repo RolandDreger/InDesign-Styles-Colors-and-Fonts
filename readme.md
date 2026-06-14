@@ -7,7 +7,7 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 
 ## Paragraph Styles
 
-:warning: Paragraph style can be deleted without warning message if not applied or no item is inserted into the current document. Setting gets lost.
+:warning: Paragraph style can be deleted without warning message if not applied or no item is inserted into the current document (e.g. in an empty template). Setting gets lost.
 
 | Place | Note |
 | --- | --- |
@@ -20,8 +20,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Anchored Object Defaults** | *Object ▶︎ Anchored Object ▶︎ Insert  ▶︎ Text.* :warning: |
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
-| **Footnote options** | :warning: (if there is no footnote in the text, e.g. in an empty template)|
-| **Endnote options** | :warning: (if there is no endnote in the text, e.g. in an empty template)|
+| **Footnote options** | :warning: (if there is no footnote in the text)|
+| **Endnote options** | :warning: (if there is no endnote in the text)|
 | **Text Variable** | *Running Header* |
 | **Caption Setup Options** | :warning: |
 | **Multi-state Object** | |
@@ -50,8 +50,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Table of Contents Style** | :warning: |
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
-| **Footnote options** | :warning: |
-| **Endnote options** | :warning: |
+| **Footnote options** | :warning: (if there is no footnote in the text)|
+| **Endnote options** | :warning: (if there is no endnote in the text)|
 | **Cross-reference format** | |
 | **Hyperlink options** | |
 | **Text Variable** | Running Header |
