@@ -20,8 +20,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Anchored Object Defaults** | *Object ▶︎ Anchored Object ▶︎ Insert  ▶︎ Text.* :warning: |
 | **Conditional Text** | Check hidden condition! |
 | **Track change** | Check deleted or moved Text! |
-| **Footnote options** | :warning: |
-| **Endnote options** | :warning: |
+| **Footnote options** | :warning: (if there is no footnote in the text, e.g. in an empty template)|
+| **Endnote options** | :warning: (if there is no endnote in the text, e.g. in an empty template)|
 | **Text Variable** | *Running Header* |
 | **Caption Setup Options** | :warning: |
 | **Multi-state Object** | |
