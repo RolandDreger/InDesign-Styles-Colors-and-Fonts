@@ -14,8 +14,8 @@ Sometimes searching for it fails, sometimes you can delete it, but the settings 
 | **Paragraph Style:** Setting for »Based on« Paragraph Style | |
 | **Paragraph Style:** Next style | :warning: |
 | **Setting for default paragraph style for text** | :warning: |
-| **Object Style** | :warning: |
-| **Cell Style** | :warning: |
+| **Object Style** | :warning: (if not applied)|
+| **Cell Style** | :warning: (if not applied)|
 | **Table of Contents Style** | :warning: |
 | **Anchored Object Defaults** | *Object ▶︎ Anchored Object ▶︎ Insert  ▶︎ Text.* :warning: |
 | **Conditional Text** | Check hidden condition! |
